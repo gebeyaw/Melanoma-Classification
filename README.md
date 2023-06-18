@@ -1,1 +1,1 @@
-# Melanoma-Classification
+# Melenoma Classification 
